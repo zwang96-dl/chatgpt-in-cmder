@@ -78,4 +78,5 @@ def main():
         _log(current_context)
 
 
-main()
+if __name__ == '__main__':
+    main()
