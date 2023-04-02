@@ -1,4 +1,4 @@
-#### ChatGPT in command line
+## ChatGPT in command line
 
 OpenAI API bot in command line
 
